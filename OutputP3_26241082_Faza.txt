@@ -1,0 +1,13 @@
+Masukan Nama: Faza Hanif
+Masukan NIM: 26241082
+Program Studi: Pendidikan Teknologi Informasi
+2 digit nim: 82
+==========output==========
+Nama: Faza Hanif
+NIM: 26241082
+Program Studi: Pendidikan Teknologi Informasi
+Dua Digit Terakhir NIM: 82
+Tipe data Nama: <class 'str'>
+Tipe data NIM: <class 'int'>
+Tipe data Program Studi: <class 'str'>
+Tipe data Dua Digit NIM: <class 'int'>
