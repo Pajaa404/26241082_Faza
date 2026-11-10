@@ -1,0 +1,13 @@
+Nama:Faza hanif
+Digit NIM: 26241082
+2 digit terakhir NIM: 82
+Digit terakhir NIM: 2
+angka pertama: 82
+angka kedua: 3
+Hasil Penjumlahan: 84
+Hasil Pengurangan: 80
+Hasil Perkalian: 164
+Hasil Pembagian: 41.0
+Hasil Modulus: 0
+Hasil Pemangkatan: 6724
+Hasil Pembagian Bulat: 41
